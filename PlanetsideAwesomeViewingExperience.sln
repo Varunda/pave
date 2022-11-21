@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetsideAwesomeViewingExperience", "PlanetsideAwesomeViewingExperience\PlanetsideAwesomeViewingExperience.csproj", "{4F775C70-5B55-43B7-A52F-97C34AB8A0E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AA73AE20-3712-4AFE-971F-2B1E8CE0042A}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F775C70-5B55-43B7-A52F-97C34AB8A0E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F775C70-5B55-43B7-A52F-97C34AB8A0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F775C70-5B55-43B7-A52F-97C34AB8A0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F775C70-5B55-43B7-A52F-97C34AB8A0E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D49D2FB-F9DD-4BCC-BDF1-03F581C25CBC}
+	EndGlobalSection
+EndGlobal
